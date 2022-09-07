@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Corriculo do Lucas.</title>
+	</head>
+    <!-- comentários: no Body deve conter todos os elementos do site-->
+	<body>
+		
+        <!-- h representa título seguindo uma hierarquia de 1 até 6, podendo repetir cada uma-->
+        <h1> Lucas Leite Araujo </h1>
+        
+        <!-- p representa cada paragráfo da minha página-->
+		<p> Resumo da vida profissional do Lucas e sua habiliades e algumas atividades de lazer. </p>
+
+		<h2> Empresa por onde passou </h2>
+
+		<ul>
+			<li> Empresa 1 </li>
+			<li> Empresa 2 </li>
+		</ul>
+
+		<h2> Escolas onde estudou </h2>
+
+		<ul>
+			<li> Escola 1 </li>
+			<li> Escola 2 </li>
+		</ul>
+
+		<h3> Habilidades </h3>
+
+		<p> Tenho habilidades em várias coisas, eu sou um super humano, aprendo tudo o que eu quero. </p>
+		
+	</body>
+</html>
